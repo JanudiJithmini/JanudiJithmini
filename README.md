@@ -12,7 +12,7 @@
 ---
 
 ### 🌱 Currently Learning
-- Next.js  
+- Next.js  React.js Node.js Express.js MONGODB
 - Modern Web Development
 
 ### 💬 Ask Me About
